@@ -17,7 +17,7 @@ export default function App() {
             </div>
             <div>
               <h1 className="font-bold text-lg text-pink-900 leading-tight">Posbindu Cendrawasih 1</h1>
-              <p className="text-xs text-pink-600/80 font-medium">Sistem Laporan Keuangan</p>
+              <p className="text-xs text-pink-600/80 font-medium">Sistem Laporan Keuangan Non Subsidi</p>
             </div>
           </div>
           
